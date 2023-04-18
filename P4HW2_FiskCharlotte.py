@@ -1,4 +1,7 @@
-
+#CTI-110
+#P4HW2-Salary Calculator
+#Charlotte Fisk
+#
 numOfEmp = 2
 totalOverTimePay = 0       
 totalRegPay = 0          
